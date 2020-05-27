@@ -51,7 +51,10 @@ int main(void) {
 	 * perform calculation and print results
 	 */
 
-	uint32_t fuel = 0, mass = 0, TotalFuel = 0, i = 0;
+	uint32_t fuel = 0;
+	uint32_t mass = 0;
+	uint32_t TotalFuel = 0;
+	uint32_t i = 0;
 
 	printf("Fuel Calculation Table\n"
 			"*********************************************************\n"
