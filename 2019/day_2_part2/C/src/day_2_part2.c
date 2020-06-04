@@ -132,7 +132,7 @@ int main(void) {
 	fclose(input_fp);  // close files
 	fclose(output_fp);
 
-	return EXIT_SUCCESS;
+	return EXIT_SUCCESS;  //test
 }
 
 uint32_t Intcode(int8_t noun, int8_t verb, int32_t array_size,
